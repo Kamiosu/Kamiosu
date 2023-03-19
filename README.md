@@ -11,7 +11,7 @@
 ###
 
 - 🌱 I’m currently learning **React**
-- 💬 Favourite Expression **The bigger the circle of the known, the larger the contact with the unknown**
+- 💬 **The bigger the circle of the known, the larger the contact with the unknown**
 - 📫 How to reach me **william177013@gmail.com**
 
 ###
